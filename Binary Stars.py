@@ -28,6 +28,12 @@ plt.ylabel('Orbital Velocity')
 plt.legend()
 plt.show
 
+#I refuse to look back thinking
+#days were better just because
+#we were younger days
+
+#back when we were kids!
+#swearing we'd never die!
 v1max= df.v1.max()
 v2max= df.v2.max()
 i1=0
